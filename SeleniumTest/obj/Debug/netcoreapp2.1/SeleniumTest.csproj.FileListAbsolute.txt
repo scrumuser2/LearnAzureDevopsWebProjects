@@ -1,0 +1,15 @@
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.deps.json
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.json
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.dev.json
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.pdb
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.csprojAssemblyReference.cache
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfoInputs.cache
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfo.cs
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\azuredevops\Downloads\EANetCoreParallelTestAzure-master\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.pdb
