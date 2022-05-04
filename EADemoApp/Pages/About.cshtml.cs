@@ -12,7 +12,7 @@ namespace EADemoApp.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "My About Page.";
         }
     }
 }
